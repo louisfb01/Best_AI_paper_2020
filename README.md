@@ -36,6 +36,7 @@ Feel free to message me any great papers I missed to add to this repertory on bo
 - [Stylized Neural Painting [22]](#22)
 - [Is a Green Screen Really Necessary for Real-Time Portrait Matting? [23]](#23)
 - [ADA: Training Generative Adversarial Networks with Limited Data [24]](#24)
+- [Improving Data‐Driven Global Weather Prediction Using Deep Convolutional Neural Networks on a Cubed Sphere [25]](#25)
 - [Paper references](#references)
 
 
@@ -261,6 +262,15 @@ With this new training method developed by NVIDIA, you can train a powerful gene
 * [Click here for the ADA code](https://github.com/NVlabs/stylegan2-ada) - The Code
 
 
+## Improving Data‐Driven Global Weather Prediction Using Deep Convolutional Neural Networks on a Cubed Sphere [25]<a name="25"></a>
+With this new training method developed by NVIDIA, you can train a powerful generative model with one-tenth of the images! Making possible many applications that do not have access to so many images!
+
+* [An AI Predicting Faster and More Accurate Weather Forecasts](https://youtu.be/C7dNU298A0A) - Short Video Explanation
+* [AI is Predicting Faster and More Accurate Weather Forecasts](https://medium.com/towards-artificial-intelligence/ai-is-predicting-faster-and-more-accurate-weather-forecasts-5d99a1d9c4f) - Short Read
+* [Improving Data‐Driven Global Weather Prediction Using Deep Convolutional Neural Networks on a Cubed Sphere](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002109) - The Paper
+* [Click here for the weather forecasting code](https://github.com/jweyn/DLWP-CS) - The Code
+
+
 ## Paper references<a name="references"></a>
 
 [1] A. Bochkovskiy, C.-Y. Wang, and H.-Y. M. Liao, Yolov4: Optimal speed and accuracy of object detection, 2020. arXiv:2004.10934 [cs.CV].
@@ -312,7 +322,7 @@ Litwin, S.Gray, B. Chess, J. Clark, C. Berner, S. McCandlish, A. Radford, I. Sut
 
 [24] T. Karras, M. Aittala, J. Hellsten, S. Laine, J. Lehtinen, and T. Aila, Training generative adversarial networks with limited data, 2020. arXiv:2006.06676 [cs.CV].
 
-
+[25] J. A. Weyn, D. R. Durran, and R. Caruana, “Improving data-driven global weather prediction using deep convolutional neural networks on a cubed sphere”, Journal of Advances in Modeling Earth Systems, vol. 12, no. 9, Sep. 2020, issn: 1942–2466.doi:10.1029/2020ms002109
 
 
 
