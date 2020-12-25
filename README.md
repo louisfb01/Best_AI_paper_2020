@@ -205,7 +205,7 @@ Language-guided navigation is a widely studied field and a very complex one. Ind
 * Short Video Explanation:
 
 [![Watch the video](https://imgur.com/zsRG2lb.png)](https://youtu.be/Fw_RUlUjuN4)
-* [Language-Guided Navigation in a 3D Environment](https://medium.com/r/?url=https%3A%2F%2Fbecominghuman.ai%2Flanguage-guided-navigation-in-a-3d-environment-e3cf4102fb89) - Short Read
+* [Language-Guided Navigation in a 3D Environment](https://becominghuman.ai/language-guided-navigation-in-a-3d-environment-e3cf4102fb89) - Short Read
 * [Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2004.02857.pdf) - The Paper
 * [Click here for the VLN-CE code](https://github.com/jacobkrantz/VLN-CE) - The Code
 
