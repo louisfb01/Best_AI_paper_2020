@@ -8,7 +8,10 @@ Here are the most interesting research papers of the year, in case you missed an
 The complete reference to each paper is listed at the end of this repertory.
 
 Maintainer - [louisfb01](https://github.com/louisfb01)
+
 Feel free to message me any great papers I missed to add to this repertory on bouchard.lf@gmail.com
+
+***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) if you share the list!***
 
 ## The Full List
 - [YOLOv4: Optimal Speed and Accuracy of Object Detection [1]](#1)
@@ -270,6 +273,8 @@ With this new training method developed by NVIDIA, you can train a powerful gene
 * [Improving Data‐Driven Global Weather Prediction Using Deep Convolutional Neural Networks on a Cubed Sphere](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002109) - The Paper
 * [Click here for the weather forecasting code](https://github.com/jweyn/DLWP-CS) - The Code
 
+
+***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) if you share the list!***
 
 ## Paper references<a name="references"></a>
 
