@@ -13,6 +13,8 @@ Maintainer - [louisfb01](https://github.com/louisfb01)
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
+---
+
 ## The Full List
 - [YOLOv4: Optimal Speed and Accuracy of Object Detection [1]](#1)
 - [DeepFaceDrawing: Deep Generation of Face Images from Sketches [2]](#2)
@@ -40,8 +42,10 @@ Maintainer - [louisfb01](https://github.com/louisfb01)
 - [Is a Green Screen Really Necessary for Real-Time Portrait Matting? [23]](#23)
 - [ADA: Training Generative Adversarial Networks with Limited Data [24]](#24)
 - [Improving Data‐Driven Global Weather Prediction Using Deep Convolutional Neural Networks on a Cubed Sphere [25]](#25)
+- [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis [26]](#26)
 - [Paper references](#references)
 
+---
 
 ## YOLOv4: Optimal Speed and Accuracy of Object Detection [1]<a name="1"></a>
 This 4th version has been recently introduced in April 2020 by Alexey Bochkovsky et al. in the paper "YOLOv4: Optimal Speed and Accuracy of Object Detection". The main goal of this algorithm was to make a super-fast object detector with high quality in terms of accuracy.
@@ -330,7 +334,21 @@ With this new training method developed by NVIDIA, you can train a powerful gene
 * [Click here for the weather forecasting code](https://github.com/jweyn/DLWP-CS) - The Code
 
 
+## NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis<a name="26"></a>
+This new method is able to generate a complete 3-dimensional scene and has the ability to decide the lighting of the scene. All this with very limited computation costs and amazing results compared to previous approaches.
+
+* Short Video Explanation:
+
+[![Watch the video](https://imgur.com/w3QnN6g.png)](https://youtu.be/ZkaTyBvS2w4)
+* [Generate a Complete 3D Scene Under Arbitrary Lighting Conditions from a Set of Input Images](https://medium.com/what-is-artificial-intelligence/generate-a-complete-3d-scene-under-arbitrary-lighting-conditions-from-a-set-of-input-images-9d2fbce63243) - Short Read
+* [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://arxiv.org/abs/2012.03927) - The Paper
+* [Click here for the NeRV code *(coming soon)*](https://people.eecs.berkeley.edu/~pratul/nerv/) - The Code
+
+---
+
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
+
+---
 
 ## Paper references<a name="references"></a>
 
@@ -385,7 +403,7 @@ Litwin, S.Gray, B. Chess, J. Clark, C. Berner, S. McCandlish, A. Radford, I. Sut
 
 [25] J. A. Weyn, D. R. Durran, and R. Caruana, “Improving data-driven global weather prediction using deep convolutional neural networks on a cubed sphere”, Journal of Advances in Modeling Earth Systems, vol. 12, no. 9, Sep. 2020, issn: 1942–2466.doi:10.1029/2020ms002109
 
-
+[26] P. P. Srinivasan, B. Deng, X. Zhang, M. Tancik, B. Mildenhall, and J. T. Barron, “Nerv: Neural reflectance and visibility fields for relighting and view synthesis,” in arXiv, 2020.
 
 
 
