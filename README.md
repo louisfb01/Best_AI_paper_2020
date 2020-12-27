@@ -13,6 +13,10 @@ Maintainer - [louisfb01](https://github.com/louisfb01)
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
+### Watch a complete 2020 rewind in 15 minutes
+
+[![Watch the video](https://imgur.com/xzZT1ll.png)](https://youtu.be/DHBclF-8KwE)
+
 ---
 
 ## The Full List
