@@ -5,11 +5,11 @@ Even with everything that happened in the world this year, we still had the chan
 
 Here are the most interesting research papers of the year, in case you missed any of them. In short, it is basically a curated list of the latest breakthroughs in AI and Data Science by release date with a clear video explanation, link to a more in-depth article, and code (if applicable). Enjoy the read!
 
-**The complete reference to each paper is listed at the end of this repertory.**
+**The complete reference to each paper is listed at the end of this repository.**
 
 Maintainer - [louisfb01](https://github.com/louisfb01)
 
-*Feel free to message me any great papers I missed to add to this repertory on bouchard.lf@gmail.com*
+*Feel free to message me any great papers I missed to add to this repository on bouchard.lf@gmail.com*
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
