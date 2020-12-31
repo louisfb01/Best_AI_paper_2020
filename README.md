@@ -19,6 +19,13 @@ Maintainer - [louisfb01](https://github.com/louisfb01)
 
 ---
 
+### If you are interested in computer vision research, here is another great repository for you:
+The top 10 computer vision papers in 2020 with video demos, articles, code, and paper reference.
+
+[Top 10 Computer Vision Papers 2020](https://github.com/louisfb01/Top-10-Computer-Vision-Papers-2020)
+
+
+
 ## The Full List
 - [YOLOv4: Optimal Speed and Accuracy of Object Detection [1]](#1)
 - [DeepFaceDrawing: Deep Generation of Face Images from Sketches [2]](#2)
