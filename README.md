@@ -9,6 +9,9 @@ Here are the most interesting research papers of the year, in case you missed an
 
 Maintainer - [louisfb01](https://github.com/louisfb01)
 
+Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in AI explained every week.
+
+
 *Feel free to message me any great papers I missed to add to this repository on bouchard.lf@gmail.com*
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
