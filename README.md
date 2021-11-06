@@ -11,6 +11,7 @@ Maintainer - [louisfb01](https://github.com/louisfb01)
 
 Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in AI explained every week.
 
+🆕 Check [the 2021](https://github.com/louisfb01/best_AI_papers_2021) repo!
 
 *Feel free to message me any great papers I missed to add to this repository on bouchard.lf@gmail.com*
 
@@ -371,6 +372,8 @@ This new method is able to generate a complete 3-dimensional scene and has the a
 * [Click here for the NeRV code *(coming soon)*](https://people.eecs.berkeley.edu/~pratul/nerv/) - The Code
 
 ---
+
+🆕 Check [the 2021](https://github.com/louisfb01/best_AI_papers_2021) repo!
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
